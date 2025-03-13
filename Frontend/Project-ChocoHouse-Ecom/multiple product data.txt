@@ -1,0 +1,134 @@
+[
+  {
+    "title": "After Eight Mint Chocolate Thins Box 200g",
+    "price": 639.00,
+    "description": "Classic mint chocolate thins made with rich dark chocolate and refreshing mint fondant.",
+    "category": "Dark Chocolate",
+    "image": "https://m.media-amazon.com/images/I/71Z8Y0ywsqL._SL1500_.jpg",
+    "rating": {
+      "rate": 4.8,
+      "count": 150
+    }
+  },
+  {
+    "title": "Kinder Mini Bueno T71 400g",
+    "price": 1609.00,
+    "description": "Miniature versions of the classic Kinder Bueno, featuring creamy hazelnut filling encased in a crispy wafer and milk chocolate.",
+    "category": "Milk Chocolate",
+    "image": "https://www.thecocoatrees.com/media/catalog/product/cache/7a02e5e842bc474d7c153f9a93c2429c/s/c/screenshot_2024-12-26_172802.png",
+    "rating": {
+      "rate": 4.7,
+      "count": 200
+    }
+  },
+  {
+    "title": "Whittaker's Berry & Biscuit Bar 250g",
+    "price": 959.00,
+    "description": "A delightful combination of smooth milk chocolate with berry pieces and crunchy biscuit.",
+    "category": "Milk Chocolate",
+    "image": "https://m.media-amazon.com/images/I/61+9LLb38rL._SL1500_.jpg",
+    "rating": {
+      "rate": 4.6,
+      "count": 180
+    }
+  },
+  {
+    "title": "Ferrero Collection Box T24 269g",
+    "price": 3295.00,
+    "description": "An exquisite assortment of Ferrero Rocher, Rondnoir, and Raffaello chocolates.",
+    "category": "Assorted Chocolates",
+    "image": "https://m.media-amazon.com/images/I/715VEtVc5cL._SL1200_.jpg",
+    "rating": {
+      "rate": 4.9,
+      "count": 220
+    }
+  },
+  {
+    "title": "Toblerone Fruit & Nut Bar 100g",
+    "price": 209.00,
+    "description": "Swiss milk chocolate with honey and almond nougat, enriched with raisins and nuts.",
+    "category": "Milk Chocolate",
+    "image": "https://m.media-amazon.com/images/I/61qpKDV7r+L._SL1320_.jpg",
+    "rating": {
+      "rate": 4.5,
+      "count": 160
+    }
+  },
+  {
+    "title": "Milka Broken Hazelnut Milk Bar 100g",
+    "price": 275.00,
+    "description": "Creamy Alpine milk chocolate with crunchy hazelnut pieces.",
+    "category": "Milk Chocolate",
+    "image": "https://m.media-amazon.com/images/I/51j072CnfTL._SL1024_.jpg",
+    "rating": {
+      "rate": 4.4,
+      "count": 140
+    }
+  },
+  {
+    "title": "Godiva Dark 72% Bar 90g",
+    "price": 524.00,
+    "description": "Rich and intense 72% cocoa dark chocolate bar from Godiva.",
+    "category": "Dark Chocolate",
+    "image": "https://m.media-amazon.com/images/I/61yT1RiIpoL._SL1500_.jpg",
+    "rating": {
+      "rate": 4.7,
+      "count": 190
+    }
+  },
+  {
+    "title": "Lindt Napolitains Assorted Pack 350g",
+    "price": 1850.00,
+    "description": "An assortment of fine Swiss milk, dark, and white chocolate squares.",
+    "category": "Assorted Chocolates",
+    "image": "https://m.media-amazon.com/images/I/71MkVjlha8L._SL1500_.jpg",
+    "rating": {
+      "rate": 4.8,
+      "count": 210
+    }
+  },
+  {
+    "title": "Wedel Dark Chocolate With Tiramisu Filling Bar 100g",
+    "price": 247.00,
+    "description": "Dark chocolate bar filled with creamy tiramisu-flavored filling.",
+    "category": "Dark Chocolate",
+    "image": "https://m.media-amazon.com/images/I/713y47kMcqL._SL1500_.jpg",
+    "rating": {
+      "rate": 4.3,
+      "count": 130
+    }
+  },
+  {
+    "title": "Maltesers Single 37g",
+    "price": 104.00,
+    "description": "Light, crispy malt centers covered in smooth milk chocolate.",
+    "category": "Milk Chocolate",
+    "image": "https://m.media-amazon.com/images/I/61VcCZgcw-L._SL1500_.jpg",
+    "rating": {
+      "rate": 4.6,
+      "count": 170
+    }
+  },
+  {
+    "title": "Lindt Lindor Singles Milk Bar 100g",
+    "price": 450.00,
+    "description": "Smooth melting milk chocolate with an irresistibly smooth filling.",
+    "category": "Milk Chocolate",
+    "image": "https://m.media-amazon.com/images/I/71UxhT83RLL._SL1488_.jpg",
+    "rating": {
+      "rate": 4.9,
+      "count": 200
+    }
+  },
+  {
+    "title": "LINDORS Assorted Chocolates Balls With A Smooth Melting Filling Each 137gm",
+    "price": 919.00,
+    "description": "Delectable collection of irresistibly smooth Lindors chocolate truffles in various flavours, perfect for gifting or personal indulgence.",
+    "category": "Milk Chocolate",
+    "image": "https://m.media-amazon.com/images/I/812aHzULVHL._SL1500_.jpg",
+    "rating": {
+      "rate": 4.3,
+      "count": 170
+    }
+  }
+]

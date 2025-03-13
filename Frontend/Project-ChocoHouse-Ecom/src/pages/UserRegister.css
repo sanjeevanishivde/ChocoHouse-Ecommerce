@@ -1,0 +1,172 @@
+/* Container for the login/signup page */
+.loginsignup {
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 85vh;
+  background-color: #C4A484; /* Light Brown Background */
+}
+
+.loginsignup-container {
+  background-color: rgba(255, 255, 255, 0.8); /* Semi-transparent white */
+  padding: 40px;
+  border-radius: 15px;
+  box-shadow: 0 6px 20px rgba(139, 117, 117, 0.15);
+  max-width: 450px;
+  width: 100%;
+  text-align: center;
+  font-family: "Helvetica", sans-serif;
+}
+
+/* Title */
+.loginsignup-container h1 {
+  font-size: 26px;
+  margin-bottom: 25px;
+  color: #5C4033; /* Dark Brown */
+}
+
+/* Input fields */
+.loginsignup-fields {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  margin-bottom: 30px;
+}
+
+.loginsignup-fields label {
+  color: #5C4033; /* Dark Brown */
+  font-weight: bold;
+}
+
+.loginsignup-fields input {
+  padding: 14px;
+  font-size: 15px;
+  border: 1px solid #5C4033; /* Dark Brown */
+  border-radius: 8px;
+  background-color: #f7f7f7;
+  color: #5C4033; /* Dark Brown */
+}
+
+.loginsignup-fields input::placeholder {
+  color: #8B6F47; /* Light Brown */
+}
+
+.loginsignup-fields input:focus {
+  border-color: #5C4033;
+  outline: none;
+  background-color: #fff;
+}
+
+/* Password Field */
+.password-container {
+  display: flex;
+}
+
+.password-container input {
+  width: 80%;
+}
+
+.password-container button {
+  background-color: #fff;
+  border: 1px solid #5C4033;
+  border-radius: 8px;
+  cursor: pointer;
+  padding: 8px;
+  width: 15%;
+}
+
+.password-container button:hover {
+  background-color: #F5E1C0; /* Lighter Brown */
+}
+
+.password-container img {
+  width: 20px;
+  padding: 0;
+  margin: 0;
+}
+
+/* Submit Button */
+.submit-btn {
+  display: flex;
+  background-color: #5C4033; /* Dark Brown */
+  color: #fff;
+  padding: 14px;
+  border: none;
+  border-radius: 8px;
+  font-size: 18px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+  width: 100%;
+}
+
+.submit-btn:hover {
+  background-color: #4A3326; /* Slightly Darker Brown */
+}
+
+/* Login Text */
+.loginsignup-login {
+  margin-top: 25px;
+  font-size: 15px;
+  color: #5C4033; /* Dark Brown */
+}
+
+.loginsignup-login span {
+  color: #5C4033; /* Dark Brown */
+  font-weight: bold;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+.loginsignup-login span:hover {
+  text-decoration: underline;
+  color: #8B6F47; /* Light Brown */
+}
+
+/* Agreement Section */
+.loginsignup-agree {
+  display: flex;
+  align-items: center;
+  margin-top: 25px;
+  font-size: 13px;
+  color: #5C4033; /* Dark Brown */
+}
+
+.loginsignup-agree input {
+  margin-right: 12px;
+}
+
+.loginsignup-agree p {
+  margin: 0;
+}
+
+/* Responsive Styles */
+@media (max-width: 480px) {
+  .loginsignup-container {
+      padding: 25px;
+  }
+
+  .loginsignup-container h1 {
+      font-size: 22px;
+  }
+
+  .loginsignup-fields input {
+      padding: 12px;
+      font-size: 14px;
+  }
+
+  .loginsignup-container button {
+      font-size: 16px;
+      padding: 12px;
+  }
+
+  .loginsignup-login {
+      font-size: 14px;
+  }
+
+  .loginsignup-agree {
+      font-size: 12px;
+  }
+}
