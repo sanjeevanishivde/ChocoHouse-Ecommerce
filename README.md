@@ -1,5 +1,4 @@
-# ChocoHouse-Ecommerce
-
+# 🛒 ChocoHouse-Ecommerce
 ChocoHouse is a full-stack e-commerce web application designed for seamless user and admin experiences. It provides a secure and valid CRUD system for managing products, users, and orders.
 
 ---
